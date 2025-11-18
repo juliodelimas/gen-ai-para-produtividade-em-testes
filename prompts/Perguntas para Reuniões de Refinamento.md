@@ -1,4 +1,4 @@
-# Perguntas para Reuniões de Refinemento
+# Perguntas para Reuniões de Refinamento
 
 ## Objetivo
 Defina perguntas que eu possa fazer na reunião de refinamento da User Story em anexo para identificar riscos e informações implícitas que podem impactar os testes do software 
