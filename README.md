@@ -54,7 +54,15 @@ Sugestões e contribuições são bem-vindas! Sinta-se à vontade para abrir iss
 
 ## Licença
 
-Este projeto está disponível para uso conforme os termos definidos neste repositório.
+Este projeto está licenciado sob a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+Isso significa que você é livre para:
+- Compartilhar — copiar e redistribuir o material em qualquer meio ou formato
+- Adaptar — remixar, transformar e criar a partir do material para qualquer finalidade, inclusive comercial
+
+**Desde que você forneça a devida atribuição**, dando os créditos apropriados ao autor original, incluindo um link para a licença e indicando se foram feitas alterações.
+
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) ou visite https://creativecommons.org/licenses/by/4.0/
 
 ---
 
