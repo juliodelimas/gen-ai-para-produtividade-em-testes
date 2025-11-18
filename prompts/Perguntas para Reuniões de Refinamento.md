@@ -12,7 +12,8 @@ Defina perguntas que eu possa fazer na reunião de refinamento da User Story em 
 - Atenha-se apenas a User Story em anexo
 - Atenha-se ao foco que é revelar problemas que impactarão as atividades de teste de software
 - Não pressuponha nada
-- Não crie hipóteses 
+- Não crie hipóteses
+- Apresente as perguntas de 10 em 10, conforme eu for lhe pedindo.
 
 ## Exemplos
 - Quais são as moedas permitidas pelo sistema (ex. Reais, Dólares, Euros, etc.)?
