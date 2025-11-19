@@ -1,4 +1,4 @@
-# Aplicando Técnicas de Teste
+# Aplicando Tabela de Decisão para Identificar o que Testar
 
 ## Objetivo
 Utilize a Tabela de Decisão para identificar quais testes podem ser executados para avaliar a User Story em anexo. 
