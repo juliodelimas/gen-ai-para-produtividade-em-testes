@@ -10,8 +10,8 @@ Utilize a Tabela de Decisão para identificar quais testes podem ser executados 
 - Tabela de decisão: Técnica baseada na especificação que usa os resultados da partição de equivalência, para combinar todas as entradas e determinar quais as sídas para cada entrada com base no requisito. Um requisito pode ter várias tabelas de decisão, o que define a quantidade de tabelas é o quanto uma entrada é dependente da outra. Cada combinação de entradas e saídas forma um caso de teste.  Combinações sem saídas definidas tornam-se perguntas para o Product Owner, para esclarecer o possível gap na documentação.
 
 ## Regras
-- Antes de construir a tabela de decisão, analise a dorreção de dependência entre as entradas identificadas
-- Não utilize outras técnicas de teste (ex. Análie do valor limite)
+- Antes de construir a tabela de decisão, analise a relação de dependência entre as entradas identificadas
+- Não utilize outras técnicas de teste (ex. Análise do valor limite)
 - Não utilize testes exploratórios
 - Não suponha ou crie hipóteses
 
@@ -23,4 +23,4 @@ Utilize a Tabela de Decisão para identificar quais testes podem ser executados 
 - Primeiro caso de teste da Tabela de Decisão: Origem da Transferência = Dono da Conta, Destino da Transferência = Dono da Conta, Tipo da Conta = Interna, Resultado Esperado = Não é permitido transferir para a mesma conta
 
 ## Formato
-- Descrever as informações definidas para 1) Regras Correlacionadas, 2) Entradas, 3) Partições de Equivalência, 4) Quantidade de Combinações e 5) Tabela e casos de teste com as colunas (Entradas, Partições de cada entrada, CT1, CT2, ...) e as linhas de interseção de CT mostram um X para a partição selecionada.
+- Descrever as informações definidas para 1) Regras Correlacionadas, 2) Entradas, 3) Partições de Equivalência, 4) Quantidade de Combinações e 5) Tabela e casos de teste com as colunas (Entradas, Partições de cada entrada, CT1, CT2, ...) e as linhas de interseção de CT mostram um X para a partição selecionada (veja um exemplo de tabela de decisão em anexo).
