@@ -6,7 +6,6 @@ Escreva os casos de teste de cadastro com sucesso e com falha para o formulário
 ## Contexto
 - Os casos de teste serão escritos inspirados no ISO-29119-3, com template padrão, contendo ID, título, pre-condições, ações com resultado esperado para cada ação e pós condições da execução.
 - O código HTML do formulário está em anexo
-- A única validação contida no formulário é a de que todos os campos devem ser preenchidos com sucesso
 
 ## Regras
 - Descreva os casos de teste levando em conideração os campos do formulário
