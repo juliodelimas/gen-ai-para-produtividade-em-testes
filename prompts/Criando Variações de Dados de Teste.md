@@ -5,7 +5,7 @@ Crie variações de dados de teste para o cadastro de pessoas no sistema.
 
 ## Contexto
 Pessoas podem ter nome, sobrenome, sexo, email, telefone e endereço. Abaixo estão as definições de cada um desses atributos.
-- Nome é apenas o primeiro nome (opde ser composto, como Ana Maria), de pessoas brasileiras, até 55 caracteres.
+- Nome é apenas o primeiro nome (pode ser composto, como Ana Maria), de pessoas brasileiras, até 55 caracteres.
 - Sobrenome pode ser um conjunto de mais nomes, brasileiros, até 200 caracteres.
 - Sexo pode ser masculino, feminino, não informado.
 - Email é geralmente uma junção de primeiro nome e alguns dos sobrenomes com dominios de nomes de sites que fornecem email gratuito (ex. gmail, hotmail, etc.).
