@@ -6,7 +6,6 @@ Escreva os casos de teste de cadastro com sucesso e com falha para o formulário
 ## Contexto
 - Os casos de teste serão escritos com Gherkin, com template padrão, contendo Dado (pre-condições), Quando (ações) e Então (pós condições).
 - O código HTML do formulário está em anexo
-- A única validação contida no formulário é a de que todos os campos devem ser preenchidos com sucesso
 
 ## Regras
 - Descreva os casos de teste levando em consideração os campos do formulário
