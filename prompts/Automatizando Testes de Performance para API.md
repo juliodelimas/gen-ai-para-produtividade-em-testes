@@ -6,7 +6,7 @@ Implementar a automação de testes de performance para API para o método POST 
 ## Contexto
 - A especificação da API para o método POST /checkout está no arquivo swagger.yaml.
 - Existem testes funcionais automatizados para o método POST /checkout na pasta test escritos com Javascript, Mocha e Supertest que podem ser utilizados como referência
-- O arquivo README.md já contém informações sobre os usuários e produtos cadastrados na API.
+- O arquivo README.md já contém informações sobre os usuários e produtos cadastrados na API dentro do tópico "Data Already Existent".
 
 ## Regras
 - Crie casos de teste de performance para o fluxo principal.
