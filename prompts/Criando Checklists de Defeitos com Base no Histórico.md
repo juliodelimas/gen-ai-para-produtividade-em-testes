@@ -11,7 +11,7 @@ A lista de defeitos previamente identificados está aqui: ATD-10 e ATD-11 sob o 
 - O checklist é algo genérico, logo, não deixe ele ser muito específico
 
 ## Exemplo
-- Item 1 do Checklist: Clique nos botões que disparam transações e verifique se a transação foi de fato executada. 
+- Item 1 do Checklist: Compare as mensagens retornadas pelo sistema com aquelas definidas pelo Product Owner. 
 
 ## Formato
-- Tabela com as colunas: Número do item do checklist, Item do checlist e Exemplos de erros relacionados a esse item
+- Tabela com as colunas: Número do item do checklist, Item do checklist e Exemplos de erros relacionados a esse item
