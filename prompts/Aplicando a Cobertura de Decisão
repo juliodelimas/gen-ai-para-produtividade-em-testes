@@ -1,0 +1,14 @@
+# Aplicando a Cobertura de Decisão
+
+## Objetivo
+Aplique a cobertura de decisão no método calculateDiscount e construa testes de unidade para testar esse método.
+
+## Contexto
+- O método calculateDiscount está dentro da classe CheckoutService na pasta services.
+- Cobertura de decisão testa o esta de verdadeiro e falso de cada condicional contido no método, sejam implícitos ou não.
+- Os testes deverão ser escritos em Javascript.
+
+## Regras
+- Aplique apenas a cobertura de decisão, não faça uso de outras técnicas.
+- Use Mocha e Chai para escrita dos testes de unidade.
+- Execute os testes e analise os resultados para validar que de fato eles funcionam.
